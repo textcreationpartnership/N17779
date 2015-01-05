@@ -110,15 +110,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:023028_0000_0FBAD3D989E4CE70"/>
-            <pb facs="tcp:023028_0001_0FBAD3DCEB7DE940"/>
+            <pb facs="unknown:023028_0000_0FBAD3D989E4CE70"/>
+            <pb facs="unknown:023028_0001_0FBAD3DCEB7DE940"/>
             <p>Vocal Remembrancer; BEING A CHOICE SELECTION OF THE MOST ADMIRED SONGS, INCLUDING THE MODERN.</p>
             <p>TO WHICH ARE ADDED FAVOURITE TOASTS AND SENTIMENTS.</p>
             <p>
                <hi>PHILADELPHIA:</hi> PRINTED BY WILLIAM SPOTSWOOD. MDCCXC.</p>
          </div>
          <div type="index">
-            <pb facs="tcp:023028_0002_0FBAD3DEABB52DB0"/>
+            <pb facs="unknown:023028_0002_0FBAD3DEABB52DB0"/>
             <head>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
@@ -229,7 +229,7 @@
                      <desc>•</desc>
                   </gap>2</item>
                <item>
-                  <pb n="iii" facs="tcp:023028_0003_0FBAD3E02D3EFE18"/>DEAR gentle Kate, oh! eaſe my care, 87</item>
+                  <pb n="iii" facs="unknown:023028_0003_0FBAD3E02D3EFE18"/>DEAR gentle Kate, oh! eaſe my care, 87</item>
                <item>Dear Chloe, come give me ſweet kiſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>, 142</item>
@@ -286,7 +286,7 @@
                <item>Happy are the days of wooing, 164</item>
                <item>How pleaſant a ſailor's life paſſes, 176</item>
                <item>
-                  <pb n="iv" facs="tcp:023028_0004_0FBAD3E1AB99F108"/>How drear the night, how dark each cloud, page, 179</item>
+                  <pb n="iv" facs="unknown:023028_0004_0FBAD3E1AB99F108"/>How drear the night, how dark each cloud, page, 179</item>
                <item>Hail maſonry! thou craft divine, 183</item>
                <item>IN ſpring, my dear ſhepherds, your flow'rets are gay, 8</item>
                <item>If all the world and love were young, 11</item>
@@ -350,7 +350,7 @@
                <item>ONE night, when all the village ſlept, 15</item>
                <item>Our grotto was the ſweeteſt place, 25</item>
                <item>
-                  <pb n="v" facs="tcp:023028_0005_0FBAD3E336F25860"/>O! Hope, thou ſoother ſweet of human woes, page, 76</item>
+                  <pb n="v" facs="unknown:023028_0005_0FBAD3E336F25860"/>O! Hope, thou ſoother ſweet of human woes, page, 76</item>
                <item>O! let <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>e haunt this peaceful ſhade, 81</item>
@@ -415,7 +415,7 @@
                <item>The wretch condemn'd with life to part, 74</item>
                <item>The ſleepleſs bird from eve to morn, ibid.</item>
                <item>
-                  <pb n="vi" facs="tcp:023028_0006_0FBAD3E4AD1C62B8"/>The ſpring with ſmiling face is ſeen, page 81</item>
+                  <pb n="vi" facs="unknown:023028_0006_0FBAD3E4AD1C62B8"/>The ſpring with ſmiling face is ſeen, page 81</item>
                <item>Thouſands would ſeek the laſting peace of death, 89</item>
                <item>The man who in his breaſt contains, 104</item>
                <item>The laſt time I came o'er the moor, 109</item>
@@ -478,7 +478,7 @@
                <item>With the man that I love, was I deſtin'd to dwell, 59</item>
                <item>Where the murm'ring river flows, 61</item>
                <item>
-                  <pb n="vii" facs="tcp:023028_0007_0FBAD3E637338FB0"/>Where weeping yews and nodding cypreſs wave, page 6<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="vii" facs="unknown:023028_0007_0FBAD3E637338FB0"/>Where weeping yews and nodding cypreſs wave, page 6<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
                </item>
@@ -593,7 +593,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="viii" facs="tcp:023028_0008_0FBAD3E7ACB1D948"/>You've ſure forgot, dear mother mine, page, 112</item>
+                  <pb n="viii" facs="unknown:023028_0008_0FBAD3E7ACB1D948"/>You've ſure forgot, dear mother mine, page, 112</item>
                <item>Young Thyrſis, the pride of the plain, 116</item>
                <item>Ye fair poſſeſs'd of ev'ry charm, 122</item>
                <item>Ye fair who ſhine throughout the land, 123</item>
@@ -640,7 +640,7 @@
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:023028_0009_0FBAD3EC2A5259C0"/>
+            <pb facs="unknown:023028_0009_0FBAD3EC2A5259C0"/>
             <head>THE Vocal Remembrancer.</head>
             <div type="poem">
                <lg>
@@ -676,7 +676,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="2" facs="tcp:023028_0010_0FBAD3EEABC26098"/>
+               <pb n="2" facs="unknown:023028_0010_0FBAD3EEABC26098"/>
                <lg>
                   <l>THE day is departed, and round from the cloud,</l>
                   <l>The moon in her beauty appears;</l>
@@ -727,7 +727,7 @@ the village maiden.</l>
                      </gap>eed,</l>
                   <l>And in my boſom reſt:</l>
                   <l>
-                     <pb n="3" facs="tcp:023028_0011_0FBAD3EFEBC58930"/>No bird that ever wing'd the air,</l>
+                     <pb n="3" facs="unknown:023028_0011_0FBAD3EFEBC58930"/>No bird that ever wing'd the air,</l>
                   <l>Was half ſo much careſs'd.</l>
                   <l>If from my han<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -789,7 +789,7 @@ the village maiden.</l>
                   <l>Which ſhame tranſplanted to a bluſh.</l>
                </lg>
                <lg>
-                  <pb n="4" facs="tcp:023028_0012_0FBAD3F16D336170"/>
+                  <pb n="4" facs="unknown:023028_0012_0FBAD3F16D336170"/>
                   <l>He cry'd, "My Celia, why that ſigh?</l>
                   <l>"And why that bluſh?—the bird is free—</l>
                   <l>"But pity beams in Celia's eye,</l>
@@ -850,7 +850,7 @@ the village maiden.</l>
                   <l>On the moſſy bank reclin'd,</l>
                   <l>Gently wafted by the wind;</l>
                   <l>
-                     <pb n="5" facs="tcp:023028_0013_0FBAD3F33B4BA060"/>Circling Sylvans round thee there,</l>
+                     <pb n="5" facs="unknown:023028_0013_0FBAD3F33B4BA060"/>Circling Sylvans round thee there,</l>
                   <l>Shall forget their fleecy care.</l>
                   <l>Muſe celeſtial, come away,</l>
                   <l>Tune ſublime th' enchanting lay;</l>
@@ -895,7 +895,7 @@ the village maiden.</l>
                   <l>And varying ſchemes of life no more</l>
                   <l>Diſtract the lab'ring will.</l>
                   <l>
-                     <pb n="6" facs="tcp:023028_0014_0FBAD3F480289E70"/>In ſilence huſh'd, to Reaſon's voice</l>
+                     <pb n="6" facs="unknown:023028_0014_0FBAD3F480289E70"/>In ſilence huſh'd, to Reaſon's voice</l>
                   <l>Attends each mental pow'r;</l>
                   <l>Come, dear Amanda, and enjoy</l>
                   <l>Reflection's fav'rite hour.</l>
@@ -942,7 +942,7 @@ the village maiden.</l>
                   <l>No ſweeter muſic I require</l>
                   <l>To charm my humble ear;</l>
                   <l>
-                     <pb n="7" facs="tcp:023028_0015_0FBAD3F5ED651030"/>With pity I look down on ſtate,</l>
+                     <pb n="7" facs="unknown:023028_0015_0FBAD3F5ED651030"/>With pity I look down on ſtate,</l>
                   <l>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> ſplendour envy not;</l>
@@ -1031,7 +1031,7 @@ the village maiden.</l>
                   <l>So from the lovely finiſh'd form</l>
                   <l>The tranſient graces fly;</l>
                   <l>
-                     <pb n="8" facs="tcp:023028_0016_0FBAD3F7896A81D8"/>But Virtue's charms, which grace the mind,</l>
+                     <pb n="8" facs="unknown:023028_0016_0FBAD3F7896A81D8"/>But Virtue's charms, which grace the mind,</l>
                   <l>Are richer, more divine;</l>
                   <l>And, when tranſlated to the ſkies;</l>
                   <l>Shall there for ever ſhine.</l>
@@ -1098,7 +1098,7 @@ the village maiden.</l>
                   <l>While the merry pipe I play.</l>
                </lg>
                <lg>
-                  <pb n="9" facs="tcp:023028_0017_0FBAD3F8EC293CA0"/>
+                  <pb n="9" facs="unknown:023028_0017_0FBAD3F8EC293CA0"/>
                   <l>Lovely Mira joins the ſtrain;</l>
                   <l>Calls the wand'rer to its mate:</l>
                   <l>Her ſweet voice can ſooth each pain,</l>
@@ -1155,7 +1155,7 @@ the village maiden.</l>
                   <l>They aſk the cauſe; I anſwer, Love.</l>
                </lg>
                <lg>
-                  <pb n="10" facs="tcp:023028_0018_0FBAD3FD387A1588"/>
+                  <pb n="10" facs="unknown:023028_0018_0FBAD3FD387A1588"/>
                   <l>Neglected love firſt taught my eyes</l>
                   <l>With tears of anguiſh to o'erflow;</l>
                   <l>'Tis that which fill'd my breaſt with ſighs,</l>
@@ -1219,7 +1219,7 @@ the village maiden.</l>
                   <l>There the ploughman, near at hand,</l>
                   <l>Whiſtles o'er the furrow'd land;</l>
                   <l>
-                     <pb n="11" facs="tcp:023028_0019_0FBAD3FE2EA540F0"/>And the milkmaid ſingeth blithe;</l>
+                     <pb n="11" facs="unknown:023028_0019_0FBAD3FE2EA540F0"/>And the milkmaid ſingeth blithe;</l>
                   <l>And the mower whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s his ſcythe;</l>
@@ -1274,7 +1274,7 @@ the village maiden.</l>
                   <l>Prays you will not let him languiſh;</l>
                   <l>One kind look would eaſe his pain.</l>
                   <l>
-                     <pb n="12" facs="tcp:023028_0020_0FBAD3FFAF7EEF80"/>Did you know the lad that courts</l>
+                     <pb n="12" facs="unknown:023028_0020_0FBAD3FFAF7EEF80"/>Did you know the lad that courts</l>
                   <l>You, he not long need ſue in vain;</l>
                   <l>Prince of long, of dance, of ſports,</l>
                   <l>You ſcarce will meet his like again.</l>
@@ -1325,7 +1325,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="13" facs="tcp:023028_0021_0FBAD4012D8503E0"/>
+               <pb n="13" facs="unknown:023028_0021_0FBAD4012D8503E0"/>
                <lg>
                   <l>YE ſwains, none ſo happy as I,</l>
                   <l>Since Chloe my love does reward;</l>
@@ -1374,7 +1374,7 @@ the village maiden.</l>
                   <l>And think it a ruthleſs foul deed,</l>
                   <l>If ſhe chanc'd but to kill a weak fly!</l>
                   <l>
-                     <pb n="14" facs="tcp:023028_0022_0FBAD402B10D2100"/>A ſparrow had built her ſmooth neſt</l>
+                     <pb n="14" facs="unknown:023028_0022_0FBAD402B10D2100"/>A ſparrow had built her ſmooth neſt</l>
                   <l>All ſecret amidſt my gay trees,</l>
                   <l>Where under her downy fond breaſt</l>
                   <l>She had ſhelter'd her young from each breeze.</l>
@@ -1424,7 +1424,7 @@ the village maiden.</l>
                   <l>Or lilies ſipp'd my tinkling ſtream?</l>
                </lg>
                <lg>
-                  <pb n="15" facs="tcp:023028_0023_0FBAD4042BF386A0"/>
+                  <pb n="15" facs="unknown:023028_0023_0FBAD4042BF386A0"/>
                   <l>Why did I ſing in am'rous ſtrain</l>
                   <l>In every vale, or every plain?</l>
                   <l>Why was my bow'r my tendereſt care?</l>
@@ -1491,7 +1491,7 @@ the village maiden.</l>
                   <l>Can tell how many tender hours</l>
                   <l>We here have paſs'd in love.</l>
                   <l>
-                     <pb n="16" facs="tcp:023028_0024_0FBAD40615790648"/>Yon ſtars above (my cruel foes!)</l>
+                     <pb n="16" facs="unknown:023028_0024_0FBAD40615790648"/>Yon ſtars above (my cruel foes!)</l>
                   <l>Have heard how ſhe has ſworn,</l>
                   <l>A thouſand times, that like to thoſe</l>
                   <l>Her flame ſhould ever burn!</l>
@@ -1542,7 +1542,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="17" facs="tcp:023028_0025_0FBAD407567D0CB0"/>
+               <pb n="17" facs="unknown:023028_0025_0FBAD407567D0CB0"/>
                <lg>
                   <l>THE pride of every grove I choſe,</l>
                   <l>The violet ſweet, and lilly fair,</l>
@@ -1598,7 +1598,7 @@ the village maiden.</l>
                   <l>I ſaw, and kiſs'd her in her ſhroud.</l>
                </lg>
                <lg>
-                  <pb n="18" facs="tcp:023028_0026_0FBAD40AD24CCC98"/>
+                  <pb n="18" facs="unknown:023028_0026_0FBAD40AD24CCC98"/>
                   <l>Such as ſhe is, who dy'd to-day,</l>
                   <l>Such I, alas! may be to-morrow;</l>
                   <l>Go, Damon, bid thy muſe diſplay</l>
@@ -1658,7 +1658,7 @@ the village maiden.</l>
                   <l>She rul'd both the ſheep and the ſwains.</l>
                </lg>
                <lg>
-                  <pb n="19" facs="tcp:023028_0027_0FBAD40D2EE60EC8"/>
+                  <pb n="19" facs="unknown:023028_0027_0FBAD40D2EE60EC8"/>
                   <l>Can I ever forget how we ſtray'd</l>
                   <l>To the foot of yon neighbouring hill,</l>
                   <l>To the bow'r we had built in the ſhade,</l>
@@ -1717,7 +1717,7 @@ the village maiden.</l>
                   <l>My captiv'd fancy, day and night,</l>
                   <l>Fairer and fairer repreſents</l>
                   <l>
-                     <pb n="20" facs="tcp:023028_0028_0FBAD40EABD8A3D0"/>Belinda, form'd for dear delight,</l>
+                     <pb n="20" facs="unknown:023028_0028_0FBAD40EABD8A3D0"/>Belinda, form'd for dear delight,</l>
                   <l>But cruel cauſe of my complaints.</l>
                </lg>
                <lg>
@@ -1770,7 +1770,7 @@ the village maiden.</l>
                   <l>Cloſe to its ſlow'ry verge did glide</l>
                   <l>A murm'ring limpid brook.</l>
                   <l>
-                     <pb n="21" facs="tcp:023028_0029_0FBAD41040A4DB20"/>Amintor ſinging there ſhe found,</l>
+                     <pb n="21" facs="unknown:023028_0029_0FBAD41040A4DB20"/>Amintor ſinging there ſhe found,</l>
                   <l>She heard him talk of love;</l>
                   <l>His crook lay by him on the ground,</l>
                   <l>While thus he pray'd to Jove.</l>
@@ -1824,7 +1824,7 @@ the village maiden.</l>
                   <l>Sweetly various in its charms.</l>
                </lg>
                <lg>
-                  <pb n="22" facs="tcp:023028_0030_0FBAD411AC8BC348"/>
+                  <pb n="22" facs="unknown:023028_0030_0FBAD411AC8BC348"/>
                   <l>Happy clown! who thus poſſeſſes</l>
                   <l>Pleaſure unalloy'd with ſtrife,</l>
                   <l>Wiſdom nothing more careſſes</l>
@@ -1879,7 +1879,7 @@ the village maiden.</l>
                   <l>Sultry Phoebus ſcorching round.</l>
                </lg>
                <lg>
-                  <pb n="23" facs="tcp:023028_0031_0FBAD4132C2BD898"/>
+                  <pb n="23" facs="unknown:023028_0031_0FBAD4132C2BD898"/>
                   <l>Round the languid herds and ſheep,</l>
                   <l>Stretch'd o'er ſunny hillocks, ſleep,</l>
                   <l>While on the hyacinth and roſe</l>
@@ -1932,7 +1932,7 @@ the village maiden.</l>
                   <l>And when they learn that you have bleſt</l>
                   <l>Another with your heart,</l>
                   <l>
-                     <pb n="24" facs="tcp:023028_0032_0FBAD414AD15EE60"/>They'll bid aſpiring paſſion reſt,</l>
+                     <pb n="24" facs="unknown:023028_0032_0FBAD414AD15EE60"/>They'll bid aſpiring paſſion reſt,</l>
                   <l>And act a brother's part.</l>
                </lg>
                <lg>
@@ -1983,7 +1983,7 @@ the village maiden.</l>
                   <l>'TWAS at the cool and fragrant hour,</l>
                   <l>When evening ſteals upon the ſky,</l>
                   <l>
-                     <pb n="25" facs="tcp:023028_0033_0FBAD418735FF658"/>When lovers ſeek the ſilent bow'r,</l>
+                     <pb n="25" facs="unknown:023028_0033_0FBAD418735FF658"/>When lovers ſeek the ſilent bow'r,</l>
                   <l>Young William taught the grove to ſigh;</l>
                   <l>His heav'nly form and beauteous air</l>
                   <l>Were like the flow'ry vale,</l>
@@ -2030,7 +2030,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="26" facs="tcp:023028_0034_0FBAD41D23054178"/>
+               <pb n="26" facs="unknown:023028_0034_0FBAD41D23054178"/>
                <lg>
                   <l>COME, come, my good ſhepherds, our flock's we muſt ſhear,</l>
                   <l>In your holiday ſuits with your laſſes appear;</l>
@@ -2084,7 +2084,7 @@ the village maiden.</l>
                   <l>His ſighs ſpoke the pangs of his heart,</l>
                   <l>To leave his poor Daphne behind:</l>
                   <l>
-                     <pb n="27" facs="tcp:023028_0035_0FBAD41E6CF61608"/>Yet why in this ſeaſon of joy,</l>
+                     <pb n="27" facs="unknown:023028_0035_0FBAD41E6CF61608"/>Yet why in this ſeaſon of joy,</l>
                   <l>Ah! why does my Corrydon ſtay?</l>
                   <l>While abſent, all ſeaſons muſt cloy.</l>
                   <l>And loſt are the pleaſures of May.</l>
@@ -2139,7 +2139,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="28" facs="tcp:023028_0036_0FBAD41FEF3F2378"/>
+               <pb n="28" facs="unknown:023028_0036_0FBAD41FEF3F2378"/>
                <lg>
                   <l>THE virgin lily of the night,</l>
                   <l>Aurora finds in tears;</l>
@@ -2198,7 +2198,7 @@ the village maiden.</l>
                   <l>Where ſighs the gale accordant to my woes!</l>
                </lg>
                <lg>
-                  <pb n="29" facs="tcp:023028_0037_0FBAD4216CF43D60"/>
+                  <pb n="29" facs="unknown:023028_0037_0FBAD4216CF43D60"/>
                   <l>Poor Philomela—murmurs in the vale!</l>
                   <l>Soft on her voice the notes of ſorrow riſe,</l>
                   <l>While diſtant woodlands bear the plaintive tale,</l>
@@ -2261,7 +2261,7 @@ the village maiden.</l>
                   <l>WHEN fairies dance round on the graſs,</l>
                   <l>And revel to night's awful noon,</l>
                   <l>
-                     <pb n="30" facs="tcp:023028_0038_0FBAD422F57AA4B0"/>O ſay, will you meet me, ſweet laſs,</l>
+                     <pb n="30" facs="unknown:023028_0038_0FBAD422F57AA4B0"/>O ſay, will you meet me, ſweet laſs,</l>
                   <l>All by the clear light of the moon?</l>
                   <l>My paſſion I ſeek not to ſcreen;</l>
                   <l>Then can I refuſe you your boon?</l>
@@ -2312,7 +2312,7 @@ the village maiden.</l>
                   <l>WHERE the jeſſamine ſweetens the bow'r</l>
                   <l>And cowſlips adorn the gay green,</l>
                   <l>
-                     <pb n="31" facs="tcp:023028_0039_0FBAD4246F244878"/>The roſes, refreſh'd by the ſhow'r,</l>
+                     <pb n="31" facs="unknown:023028_0039_0FBAD4246F244878"/>The roſes, refreſh'd by the ſhow'r,</l>
                   <l>Contribute to brighten the ſcene;</l>
                   <l>The roſes, refreſh'd by the ſhow'r,</l>
                   <l>Contribute to brighten the ſcene.</l>
@@ -2361,7 +2361,7 @@ the village maiden.</l>
                   <l>No longer be faithleſs in love,</l>
                   <l>The dictates of honor obey:</l>
                   <l>
-                     <pb n="32" facs="tcp:023028_0040_0FBAD4261C6D82F8"/>Ye nymphs, who with beauty are bleſt,</l>
+                     <pb n="32" facs="unknown:023028_0040_0FBAD4261C6D82F8"/>Ye nymphs, who with beauty are bleſt,</l>
                   <l>With virtue improve ev'ry grace;</l>
                   <l>The charms of the mind, when poſſeſt,</l>
                   <l>Will dignify thoſe of the face;</l>
@@ -2413,7 +2413,7 @@ the village maiden.</l>
                   <l>I was forc'd to deny what I really believe.</l>
                </lg>
                <lg>
-                  <pb n="33" facs="tcp:023028_0041_0FBAD42B96269FB0"/>
+                  <pb n="33" facs="unknown:023028_0041_0FBAD42B96269FB0"/>
                   <l>My flocks he attends; if they ſtray from the plain,</l>
                   <l>Alexis is ſure ev'ry ſheep to regain;</l>
                   <l>Then begs, a dear kiſs for his labour I'll give;</l>
@@ -2469,7 +2469,7 @@ the village maiden.</l>
                         <desc>•••</desc>
                      </gap>n to eve their tale;</l>
                   <l>
-                     <pb n="34" facs="tcp:023028_0042_0FBAD42D01C73B10"/>Her beauty and unſpotted fame</l>
+                     <pb n="34" facs="unknown:023028_0042_0FBAD42D01C73B10"/>Her beauty and unſpotted fame</l>
                   <l>Make vocal every v<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>le;</l>
@@ -2526,7 +2526,7 @@ the village maiden.</l>
                   <l>NO more ye ſwains, no more upbraid</l>
                   <l>A youth, by love unhappy made;</l>
                   <l>
-                     <pb n="35" facs="tcp:023028_0043_0FBAD42E48489330"/>Your rural ſports are all in vain,</l>
+                     <pb n="35" facs="unknown:023028_0043_0FBAD42E48489330"/>Your rural ſports are all in vain,</l>
                   <l>To ſooth my care, or eaſe my pain.</l>
                   <l>Nor ſhade of trees, nor ſweets of flow'rs,</l>
                   <l>Can e'er redeem my happy hours;</l>
@@ -2580,7 +2580,7 @@ the village maiden.</l>
                   <l>O, thoſe were the times to regale,</l>
                   <l>And we footed it rarely about.</l>
                   <l>
-                     <pb n="36" facs="tcp:023028_0044_0FBAD42FAD953468"/>Then our partners were buxom as does,</l>
+                     <pb n="36" facs="unknown:023028_0044_0FBAD42FAD953468"/>Then our partners were buxom as does,</l>
                   <l>And we all were as happy as kings;</l>
                   <l>Each lad in his holiday cloaths,</l>
                   <l>And the laſſes in all their beſt things:</l>
@@ -2643,7 +2643,7 @@ the village maiden.</l>
                   <l>THO' his paſſion, in ſilence, the youth would conceal,</l>
                   <l>What his tongue would not utter, his eyes ſtill reveal;</l>
                   <l>
-                     <pb n="37" facs="tcp:023028_0045_0FBAD43196083688"/>And by ſoft ſtolen glances unwillingly prove,</l>
+                     <pb n="37" facs="unknown:023028_0045_0FBAD43196083688"/>And by ſoft ſtolen glances unwillingly prove,</l>
                   <l>That they are the tell-tales of Celadon's love.</l>
                </lg>
                <lg>
@@ -2700,7 +2700,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="38" facs="tcp:023028_0046_0FBAD432ACAF02B8"/>
+               <pb n="38" facs="unknown:023028_0046_0FBAD432ACAF02B8"/>
                <lg>
                   <l>AS I went o'er the meadows, no matter the day,</l>
                   <l>A ſhepherd I met who came tripping that way;</l>
@@ -2760,7 +2760,7 @@ the village maiden.</l>
                   <l>And grateful keep this holiday.</l>
                </lg>
                <lg>
-                  <pb n="39" facs="tcp:023028_0047_0FBAD4342B348048"/>
+                  <pb n="39" facs="unknown:023028_0047_0FBAD4342B348048"/>
                   <l>I Search'd the fields of ev'ry kind,</l>
                   <l>The faireſt flow'rs I choſe,</l>
                   <l>And ſent them in a wreath to bind</l>
@@ -2809,7 +2809,7 @@ the village maiden.</l>
                         <desc>••</desc>
                      </gap>lvan ſcene;</l>
                   <l>
-                     <pb n="40" facs="tcp:023028_0048_0FBAD439DEB7E058"/>Then ev'ry nymph, that hop'd to pleaſe,</l>
+                     <pb n="40" facs="unknown:023028_0048_0FBAD439DEB7E058"/>Then ev'ry nymph, that hop'd to pleaſe,</l>
                   <l>Firſt ſtrove to catch the grace and eaſe</l>
                   <l>Of Jenny of the green.</l>
                </lg>
@@ -2860,7 +2860,7 @@ the village maiden.</l>
                   <l>The ſpotleſs lambkins play.</l>
                </lg>
                <lg>
-                  <pb n="41" facs="tcp:023028_0049_0FBAD43AEE033490"/>
+                  <pb n="41" facs="unknown:023028_0049_0FBAD43AEE033490"/>
                   <l>From vale to vale the zephyrs rove,</l>
                   <l>To rob th' unfolding flow'rs;</l>
                   <l>And muſic melts in ev'ry grove,</l>
@@ -2914,7 +2914,7 @@ the village maiden.</l>
                   <l>Each flow'r declines its ſweet head,</l>
                   <l>Nor odours around me will throw,</l>
                   <l>
-                     <pb n="42" facs="tcp:023028_0050_0FBAD43C6E0B3F28"/>Whilſt ev'ry ſoft lamb on the mead,</l>
+                     <pb n="42" facs="unknown:023028_0050_0FBAD43C6E0B3F28"/>Whilſt ev'ry ſoft lamb on the mead,</l>
                   <l>Seems kindly to pity my woe.</l>
                </lg>
                <lg>
@@ -2965,7 +2965,7 @@ the village maiden.</l>
                   <l>In hopes that reaſon there may ſend,</l>
                   <l>That aid ſhe here denies;</l>
                   <l>
-                     <pb n="43" facs="tcp:023028_0051_0FBAD43DEF728BA0"/>That time and abſence may efface</l>
+                     <pb n="43" facs="unknown:023028_0051_0FBAD43DEF728BA0"/>That time and abſence may efface</l>
                   <l>Her image from my breaſt,</l>
                   <l>Which, whilſt ſhe there maintains a place,</l>
                   <l>Can never taſte of reſt.</l>
@@ -3020,7 +3020,7 @@ the village maiden.</l>
                      </gap>d, as all lovers do, wonderful wife.</l>
                </lg>
                <lg>
-                  <pb n="44" facs="tcp:023028_0052_0FBAD43F7079BAA0"/>
+                  <pb n="44" facs="unknown:023028_0052_0FBAD43F7079BAA0"/>
                   <l>A fortnight was ſpent ere dear Moggy came too;</l>
                   <l>(For maidens a decency keep when they woo:)</l>
                   <l>At length ſhe conſented, and made him a vow!</l>
@@ -3074,7 +3074,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="45" facs="tcp:023028_0053_0FBAD4414F2CE728"/>
+               <pb n="45" facs="unknown:023028_0053_0FBAD4414F2CE728"/>
                <lg>
                   <l>WITH Phillis I'll trip o'er the meads,</l>
                   <l>And haſten away to the plain,</l>
@@ -3146,7 +3146,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="46" facs="tcp:023028_0054_0FBAD4426E131EC8"/>
+               <pb n="46" facs="unknown:023028_0054_0FBAD4426E131EC8"/>
                <lg>
                   <l>WHEN late a ſimple ruſtic laſs</l>
                   <l>I rov'd without conſtraint,</l>
@@ -3201,7 +3201,7 @@ the village maiden.</l>
                   <l>Learn rather from Sylvia's example, ye fair,</l>
                   <l>That a pleaſing revenge ſhall take place of deſpair;</l>
                   <l>
-                     <pb n="47" facs="tcp:023028_0055_0FBAD443F02D86D0"/>Give ſorrow and care to the wind:</l>
+                     <pb n="47" facs="unknown:023028_0055_0FBAD443F02D86D0"/>Give ſorrow and care to the wind:</l>
                   <l>If faithful the ſwain, to his paſſion be true;</l>
                   <l>If falſe, ſeek redreſs in a lover that's new,</l>
                   <l>And pay each inconſtant in kind.</l>
@@ -3252,7 +3252,7 @@ the village maiden.</l>
                   <l>Since theſe my poor neglected lambs,</l>
                   <l>So late my only care,</l>
                   <l>
-                     <pb n="48" facs="tcp:023028_0056_0FBAD445709D57D0"/>Have loſt the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="48" facs="unknown:023028_0056_0FBAD445709D57D0"/>Have loſt the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> tender fleecy dams,</l>
                   <l>And ſtray'd I know not where:</l>
@@ -3307,7 +3307,7 @@ the village maiden.</l>
                   <l>If timely ye'd wiſh to be wiſe,</l>
                   <l>Attend to my counſel, ye fair:</l>
                   <l>
-                     <pb n="49" facs="tcp:023028_0057_0FBAD446ECA80990"/>Let virgins whom nature has bleſt,</l>
+                     <pb n="49" facs="unknown:023028_0057_0FBAD446ECA80990"/>Let virgins whom nature has bleſt,</l>
                   <l>Her ſovereign dictates obey;</l>
                   <l>For beauties by nature expreſt,</l>
                   <l>Are beauties that never decay.</l>
@@ -3358,7 +3358,7 @@ the village maiden.</l>
                   <l>And met, &amp;c.</l>
                   <l>No pow'r had I, all art was vain,</l>
                   <l>
-                     <pb n="50" facs="tcp:023028_0058_0FBAD4486E325EC8"/>Of Strephon to get rid;</l>
+                     <pb n="50" facs="unknown:023028_0058_0FBAD4486E325EC8"/>Of Strephon to get rid;</l>
                   <l>My panting heart confeſs'd the ſwain;</l>
                   <l>Upon my word it did,</l>
                   <l>Upon, &amp;c</l>
@@ -3414,7 +3414,7 @@ the village maiden.</l>
                   <l>Rejoicing in its ruin,</l>
                   <l>And proudly, &amp;c</l>
                   <l>
-                     <pb n="51" facs="tcp:023028_0059_0FBAD44A0EFEE5D0"/>Such haughty tyrants I deteſt;</l>
+                     <pb n="51" facs="unknown:023028_0059_0FBAD44A0EFEE5D0"/>Such haughty tyrants I deteſt;</l>
                   <l>And let me ſcorn them, while I reſt</l>
                   <l>Upon thy gently ſwelling breaſt,</l>
                   <l>My lovely, charming Beſſy,</l>
@@ -3469,7 +3469,7 @@ the village maiden.</l>
                   <l>Hear, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="52" facs="tcp:023028_0060_0FBAD44BE9AB5BC0"/>
+                  <pb n="52" facs="unknown:023028_0060_0FBAD44BE9AB5BC0"/>
                   <l>By the riv'let's rambling race:</l>
                   <l>By the muſic that it makes:</l>
                   <l>By bright Sol's inverted face,</l>
@@ -3532,7 +3532,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="53" facs="tcp:023028_0061_0FBAD44E8C01F980"/>
+               <pb n="53" facs="unknown:023028_0061_0FBAD44E8C01F980"/>
                <head>AMORET AND PHILLIS.</head>
                <sp>
                   <speaker>Amoret.</speaker>
@@ -3586,7 +3586,7 @@ the village maiden.</l>
                   <l>If what you now ſay,</l>
                   <l>Your heart don't betray,</l>
                   <l>
-                     <pb n="54" facs="tcp:023028_0062_0FBAD450CF92EC58"/>It gives me much pleaſure to find</l>
+                     <pb n="54" facs="unknown:023028_0062_0FBAD450CF92EC58"/>It gives me much pleaſure to find</l>
                   <l>My Amoret ſtill</l>
                   <l>A ſtranger to ill,</l>
                   <l>And for wedlock's ſoft bondage inclin'd.</l>
@@ -3640,7 +3640,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="55" facs="tcp:023028_0063_0FBAD4523752A0D0"/>
+               <pb n="55" facs="unknown:023028_0063_0FBAD4523752A0D0"/>
                <lg>
                   <l>VAIN is ev'ry fond endeavour</l>
                   <l>To reſiſt the tender dart;</l>
@@ -3687,7 +3687,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="56" facs="tcp:023028_0064_0FBAD454100BF4B8"/>
+               <pb n="56" facs="unknown:023028_0064_0FBAD454100BF4B8"/>
                <lg>
                   <l>THE nymph that I lov'd was as cheerful as day,</l>
                   <l>And as ſweet as the bloſſoming hawthorn in May;</l>
@@ -3740,7 +3740,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="57" facs="tcp:023028_0065_0FBAD4552D305818"/>
+               <pb n="57" facs="unknown:023028_0065_0FBAD4552D305818"/>
                <head>THE SHEPHERD AND SHEPHERDESS.—A <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ANTATA.</head>
@@ -3807,7 +3807,7 @@ the village maiden.</l>
                   <l>Thoſe who wed for mere wealth ſuch misfortunes may prove,</l>
                   <l>But we buy wedlock's tickets with true love for love;</l>
                   <l>
-                     <pb n="58" facs="tcp:023028_0066_0FBAD456D5CB6FF0"/>And ſince friendſhip's the prize in the lott'ry for life,</l>
+                     <pb n="58" facs="unknown:023028_0066_0FBAD456D5CB6FF0"/>And ſince friendſhip's the prize in the lott'ry for life,</l>
                   <l>We ſhall ſtand the beſt chance when we're made man and wife.</l>
                </sp>
                <sp>
@@ -3863,7 +3863,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="59" facs="tcp:023028_0067_0FBAD4584E80B908"/>
+               <pb n="59" facs="unknown:023028_0067_0FBAD4584E80B908"/>
                <lg>
                   <l>COME then, come, ye ſportive ſwains;</l>
                   <l>Hither, jocund nymphs, advance;</l>
@@ -3916,7 +3916,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="60" facs="tcp:023028_0068_0FBAD459AC021918"/>
+               <pb n="60" facs="unknown:023028_0068_0FBAD459AC021918"/>
                <lg>
                   <l>TO ſheep-ſhear, my boys! pipe and tabor ſtrike up:</l>
                   <l>Let's not loſe a moment, briſk, puſh round the cup:</l>
@@ -3973,7 +3973,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="61" facs="tcp:023028_0069_0FBAD45E11538C00"/>
+               <pb n="61" facs="unknown:023028_0069_0FBAD45E11538C00"/>
                <lg>
                   <l>WHERE the murm'ring river flows,</l>
                   <l>Where the weeping willows play;</l>
@@ -4024,7 +4024,7 @@ the village maiden.</l>
                   <l>HER mouth with a ſmile</l>
                   <l>Devoid of all guile,</l>
                   <l>
-                     <pb n="62" facs="tcp:023028_0070_0FBAD45EFB825448"/>Half open to view</l>
+                     <pb n="62" facs="unknown:023028_0070_0FBAD45EFB825448"/>Half open to view</l>
                   <l>Is the bud of the roſe,</l>
                   <l>In the morning that blows,</l>
                   <l>Impearl'd with the dew.</l>
@@ -4081,7 +4081,7 @@ the village maiden.</l>
                   <l>Her breath I would catch in the roſe,</l>
                   <l>Or her voice in the nightingale hear,</l>
                   <l>
-                     <pb n="63" facs="tcp:023028_0071_0FBAD46094BD0D30"/>To cheat my deſpair of its prey.</l>
+                     <pb n="63" facs="unknown:023028_0071_0FBAD46094BD0D30"/>To cheat my deſpair of its prey.</l>
                   <l>What object her charms can aſſume?</l>
                   <l>How harſh is the nightingale's lay!</l>
                   <l>How inſipid the roſe's perfume!</l>
@@ -4133,7 +4133,7 @@ the village maiden.</l>
                   <l>Is quickly ſcorn'd when not ador'd.</l>
                </lg>
                <lg>
-                  <pb n="64" facs="tcp:023028_0072_0FBAD4621090F398"/>
+                  <pb n="64" facs="unknown:023028_0072_0FBAD4621090F398"/>
                   <l>'Thoſe liquid pearls from either eye,</l>
                   <l>Which might an Eaſtern empire buy,</l>
                   <l>Unvalued here and fruitleſs fall;</l>
@@ -4188,7 +4188,7 @@ the village maiden.</l>
                   <l>Impatient—for 'tis paſt the promis'd hour.</l>
                </lg>
                <lg>
-                  <pb n="65" facs="tcp:023028_0073_0FBAD463C85B30D0"/>
+                  <pb n="65" facs="unknown:023028_0073_0FBAD463C85B30D0"/>
                   <l>Lend me thy light, O ever-ſparkling ſtar!</l>
                   <l>Bright Heſper! in thy glowing pomp array'd,</l>
                   <l>Look down, look down, from thy all-glorious car,</l>
@@ -4247,7 +4247,7 @@ the village maiden.</l>
                   <l>Here eyes that ſo beautiful ſhone,</l>
                   <l>Are cloſed forever in ſleep;</l>
                   <l>
-                     <pb n="66" facs="tcp:023028_0074_0FBAD466340AB930"/>And mine, ſince my Lucy is gone,</l>
+                     <pb n="66" facs="unknown:023028_0074_0FBAD466340AB930"/>And mine, ſince my Lucy is gone,</l>
                   <l>Have nothing to do but to weep.</l>
                </lg>
                <lg>
@@ -4320,7 +4320,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="67" facs="tcp:023028_0075_0FBAD46ACA6433B8"/>
+               <pb n="67" facs="unknown:023028_0075_0FBAD46ACA6433B8"/>
                <lg>
                   <l>THE noon-tide ſun the fields had gilded o'er,</l>
                   <l>And drain'd the dew-drops with his fervid beams;</l>
@@ -4387,7 +4387,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="68" facs="tcp:023028_0076_0FBAD46BB3BACC40"/>
+               <pb n="68" facs="unknown:023028_0076_0FBAD46BB3BACC40"/>
                <lg>
                   <l>WHEN once I with Phillida ſtray'd</l>
                   <l>Where rivers run murmuring by,</l>
@@ -4437,7 +4437,7 @@ the village maiden.</l>
                   <l>And, ere words were my own, I ſpoke in a ſigh.</l>
                </lg>
                <lg>
-                  <pb n="69" facs="tcp:023028_0077_0FBAD46D2E7D7188"/>
+                  <pb n="69" facs="unknown:023028_0077_0FBAD46D2E7D7188"/>
                   <l>The nightingale plunder'd, the mate-widow'd dove,</l>
                   <l>The warbled complaint of the ſuffering grove,</l>
                   <l>To youth as it ripen'd gave ſentiment new,</l>
@@ -4497,7 +4497,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="70" facs="tcp:023028_0078_0FBAD46EB10ECAC8"/>
+               <pb n="70" facs="unknown:023028_0078_0FBAD46EB10ECAC8"/>
                <lg>
                   <l>THE garlands fade, that ſpring ſo lately wove;</l>
                   <l>Each ſimple flow'r, which ſhe had nurs'd in dew;</l>
@@ -4550,7 +4550,7 @@ the village maiden.</l>
                   <l>Young Colin whiſpers Roſalind,</l>
                   <l>Who ſtill reap'd by his ſide;</l>
                   <l>
-                     <pb n="71" facs="tcp:023028_0079_0FBAD4702D9D46D0"/>And plights his troth, if ſhe prove kind,</l>
+                     <pb n="71" facs="unknown:023028_0079_0FBAD4702D9D46D0"/>And plights his troth, if ſhe prove kind,</l>
                   <l>To take her for his bride.</l>
                </lg>
                <lg>
@@ -4605,7 +4605,7 @@ the village maiden.</l>
                   <l>The hollow rock, where ſhe reclin'd,</l>
                   <l>She thought was like falſe Damon's mind;</l>
                   <l>
-                     <pb n="72" facs="tcp:023028_0080_0FBAD471ABBE5570"/>His dark deſign—the ſhade;</l>
+                     <pb n="72" facs="unknown:023028_0080_0FBAD471ABBE5570"/>His dark deſign—the ſhade;</l>
                   <l>The deep ſmooth ſtream—his tempting face;</l>
                   <l>Its ſound—his tongue's deluding grace,</l>
                   <l>That won, and that betray'd.</l>
@@ -4662,7 +4662,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="73" facs="tcp:023028_0081_0FBAD47375EF1D18"/>
+               <pb n="73" facs="unknown:023028_0081_0FBAD47375EF1D18"/>
                <lg>
                   <l>BLOW, blow, thou ſummer's breeze,</l>
                   <l>O gently fan the trees</l>
@@ -4711,7 +4711,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="74" facs="tcp:023028_0082_0FBAD474ABD18780"/>
+               <pb n="74" facs="unknown:023028_0082_0FBAD474ABD18780"/>
                <lg>
                   <l>THE wretch condemn'd with life to part,</l>
                   <l>Still, ſtill on hope relies:</l>
@@ -4761,7 +4761,7 @@ the village maiden.</l>
                   <l>The joys that all my ſoul poſſeſs,</l>
                   <l>And ev'ry care remove:</l>
                   <l>
-                     <pb n="75" facs="tcp:023028_0083_0FBAD47942BDEB68"/>Still, ſtill, too ſhort appears his ſtay;</l>
+                     <pb n="75" facs="unknown:023028_0083_0FBAD47942BDEB68"/>Still, ſtill, too ſhort appears his ſtay;</l>
                   <l>The moments fly too faſt away,</l>
                   <l>Too faſt for my fond love.</l>
                </lg>
@@ -4818,7 +4818,7 @@ the village maiden.</l>
                   <l>So lovely, ſo graceful a maid?</l>
                </lg>
                <lg>
-                  <pb n="76" facs="tcp:023028_0084_0FBAD47AAE25CC08"/>
+                  <pb n="76" facs="unknown:023028_0084_0FBAD47AAE25CC08"/>
                   <l>O! Hope, thou ſoother ſweet of human woes,</l>
                   <l>How ſhall I lure thee to my haunts forlorn!</l>
                   <l>For me wilt thou renew the wither<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4872,7 +4872,7 @@ the village maiden.</l>
                <l>Who, with beauty's ſubtle art,</l>
                <l>Chains and triumphs o'er my heart;</l>
                <l>
-                  <pb n="77" facs="tcp:023028_0085_0FBAD47C2FA09C98"/>Let their murmur reach her ears;</l>
+                  <pb n="77" facs="unknown:023028_0085_0FBAD47C2FA09C98"/>Let their murmur reach her ears;</l>
                <l>Tell her all my hopes, and fears;</l>
                <l>She alone loſt peace can give:</l>
                <l>Tell her, 'tis for her love I live;</l>
@@ -4919,7 +4919,7 @@ the village maiden.</l>
                   <l>Where innocence and virtue dwell.</l>
                </lg>
                <lg>
-                  <pb n="78" facs="tcp:023028_0086_0FBAD47DAE603528"/>
+                  <pb n="78" facs="unknown:023028_0086_0FBAD47DAE603528"/>
                   <l>How wretched the maiden who loves</l>
                   <l>A ſhepherd unworthy her care!</l>
                   <l>From fair-one to fair-one who roves,</l>
@@ -4980,7 +4980,7 @@ the village maiden.</l>
                   <l>WHEN firſt the Eaſt begins to dawn,</l>
                   <l>And Nature's beauties riſe,</l>
                   <l>
-                     <pb n="79" facs="tcp:023028_0087_0FBAD47F33634DD0"/>The lark aſſumes her matins ſweet,</l>
+                     <pb n="79" facs="unknown:023028_0087_0FBAD47F33634DD0"/>The lark aſſumes her matins ſweet,</l>
                   <l>And ſeeks the yielding ſkies.</l>
                   <l>The roſy light that glads the Muſe,</l>
                   <l>Dear to her breaſt muſt be;</l>
@@ -5033,7 +5033,7 @@ the village maiden.</l>
                   <l>Quite angry, at laſt, I cried—'Let me alone:</l>
                   <l>I have ſenſe, and have ears, and have eyes of my own;</l>
                   <l>
-                     <pb n="80" facs="tcp:023028_0088_0FBAD48129BC0560"/>Your blindneſs and folly will lead me aſtray,</l>
+                     <pb n="80" facs="unknown:023028_0088_0FBAD48129BC0560"/>Your blindneſs and folly will lead me aſtray,</l>
                   <l>While Prudence to Strephon's gay bow'r leads the way.'</l>
                   <l>Provok'd by my anſwer, he preſently flew,</l>
                   <l>And brought my dear Jamie quite full in my view;</l>
@@ -5086,7 +5086,7 @@ the village maiden.</l>
                   <l>'Tis night, and the landſcape is lovely no more;</l>
                   <l>I mourn, but, ye woodlands, I mourn not for you;</l>
                   <l>
-                     <pb n="81" facs="tcp:023028_0089_0FBAD4822D1C81F8"/>For <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <pb n="81" facs="unknown:023028_0089_0FBAD4822D1C81F8"/>For <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> proaching your charms to reſtore;</l>
                   <l>Perfum'd with freſh fragrance, and glitt'ring with dew.</l>
@@ -5152,7 +5152,7 @@ the village maiden.</l>
                   <l>'Flow, gentle ſtream! nor let the vain</l>
                   <l>Thy ſmall unſully'd ſtores diſdain:</l>
                   <l>
-                     <pb n="82" facs="tcp:023028_0090_0FBAD483ACEA1F88"/>Nor let the penſive ſage repine,</l>
+                     <pb n="82" facs="unknown:023028_0090_0FBAD483ACEA1F88"/>Nor let the penſive ſage repine,</l>
                   <l>Whoſe latent courſe reſembles thine.'</l>
                </lg>
                <lg>
@@ -5206,7 +5206,7 @@ the village maiden.</l>
                   <l>Was ſtruggling in the net.</l>
                </lg>
                <lg>
-                  <pb n="83" facs="tcp:023028_0091_0FBAD48532095F38"/>
+                  <pb n="83" facs="unknown:023028_0091_0FBAD48532095F38"/>
                   <l>The flutt'ring pris'ner begg'd his life;</l>
                   <l>'O pity me,' he ſaid!</l>
                   <l>'Twould kill my harmleſs babes and wife,</l>
@@ -5269,7 +5269,7 @@ the village maiden.</l>
                   <l>A ſong of thanks did ſing.</l>
                </lg>
                <lg>
-                  <pb n="84" facs="tcp:023028_0092_0FBAD486AB454928"/>
+                  <pb n="84" facs="unknown:023028_0092_0FBAD486AB454928"/>
                   <l>The red-breaſt, ſeeing pity ſhown,</l>
                   <l>Rejoicing, took his flight;</l>
                   <l>Nor did the farmer's feeling heart</l>
@@ -5323,7 +5323,7 @@ the village maiden.</l>
                   <l>ding dong!</l>
                </lg>
                <lg>
-                  <pb n="85" facs="tcp:023028_0093_0FBAD48A6167AA90"/>
+                  <pb n="85" facs="unknown:023028_0093_0FBAD48A6167AA90"/>
                   <l>For my fair Phillida</l>
                   <l>A bridal bed was made,</l>
                   <l>But ſtead of ſilke ſo gay</l>
@@ -5384,7 +5384,7 @@ the village maiden.</l>
                   <l>Thus like the 'wilder'd bird of night,</l>
                   <l>Fair Cleora mourn'd her love unkind,</l>
                   <l>
-                     <pb n="86" facs="tcp:023028_0094_0FBAD48B48EEA6D0"/>To liſt'ning ſaints put up her prayer,</l>
+                     <pb n="86" facs="unknown:023028_0094_0FBAD48B48EEA6D0"/>To liſt'ning ſaints put up her prayer,</l>
                   <l>That ſhe a ſpeedy death <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ight find.</l>
@@ -5449,7 +5449,7 @@ the village maiden.</l>
                   <l>Then ſwain'—ſhall I madly deſtroy,</l>
                   <l>Years of pleaſure to come, in an hour?</l>
                   <l>
-                     <pb n="87" facs="tcp:023028_0095_0FBAD48CAE2527F8"/>Then teaze me no more for my heart,</l>
+                     <pb n="87" facs="unknown:023028_0095_0FBAD48CAE2527F8"/>Then teaze me no more for my heart,</l>
                   <l>Make to others thy ſpeeches ſo fine:</l>
                   <l>To wed, is with freedom to part,</l>
                   <l>So, ſhepherd, I cannot be thine.</l>
@@ -5500,7 +5500,7 @@ the village maiden.</l>
                   <l>DEAR gentle Kate, oh! eaſe my care,</l>
                   <l>And let my ſorrows move thee,</l>
                   <l>
-                     <pb n="88" facs="tcp:023028_0096_0FBAD48E2F09AFE0"/>As thou art faireſt of the fair,</l>
+                     <pb n="88" facs="unknown:023028_0096_0FBAD48E2F09AFE0"/>As thou art faireſt of the fair,</l>
                   <l>So I the deareſt love thee.</l>
                </lg>
                <lg>
@@ -5566,7 +5566,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="91" facs="tcp:023028_0097_0FBAD48FAFA37710"/>
+               <pb n="91" facs="unknown:023028_0097_0FBAD48FAFA37710"/>
                <lg>
                   <l>FROM the light down that mocks the gale,</l>
                   <l>The Linnet culls her ſtores,</l>
@@ -5619,7 +5619,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb facs="tcp:023028_0098_0FBAD491313073F8"/>
+               <pb facs="unknown:023028_0098_0FBAD491313073F8"/>
                <lg>
                   <l>BEHOLD, my fair, where'er we rove,</l>
                   <l>What dreary proſpects round us riſe;</l>
@@ -5671,7 +5671,7 @@ the village maiden.</l>
                   <l>And know the pangs that rend my heart.</l>
                </lg>
                <lg>
-                  <pb n="91" facs="tcp:023028_0099_0FBAD492C18DFAD0"/>
+                  <pb n="91" facs="unknown:023028_0099_0FBAD492C18DFAD0"/>
                   <l>Thou God of love, kind Cupi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> hear!</l>
@@ -5737,7 +5737,7 @@ the village maiden.</l>
                         <desc>•</desc>
                      </gap>ighted old maids,</l>
                   <l>
-                     <pb n="92" facs="tcp:023028_0100_0FBAD5B4F11AB978"/>Now their ſweets are all wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <pb n="92" facs="unknown:023028_0100_0FBAD5B4F11AB978"/>Now their ſweets are all wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>ed, too late they repent,</l>
                   <l>For tranſport untaſted, for moments miſpent:</l>
@@ -5793,7 +5793,7 @@ the village maiden.</l>
                   <l>Is kiſs behind the garden gate.</l>
                </lg>
                <lg>
-                  <pb n="93" facs="tcp:023028_0101_0FBAD5B6C88BCE20"/>
+                  <pb n="93" facs="unknown:023028_0101_0FBAD5B6C88BCE20"/>
                   <l>When fair Louiſa lovely maid,</l>
                   <l>Confeſt her flame of late;</l>
                   <l>I gave my fair tho' ſore afraid,</l>
@@ -5847,7 +5847,7 @@ the village maiden.</l>
                   <l>Where, O Nymph! doſt thou reſort?</l>
                   <l>Never, never ſeen at court!</l>
                   <l>
-                     <pb n="94" facs="tcp:023028_0102_0FBAD5BA23EAFA10"/>There, the noiſy and the proud,</l>
+                     <pb n="94" facs="unknown:023028_0102_0FBAD5BA23EAFA10"/>There, the noiſy and the proud,</l>
                   <l>There, tumultuous paſſions croud;</l>
                   <l>Doſt thou then affect to dwell,</l>
                   <l>With the poor in lonely cell?</l>
@@ -5900,7 +5900,7 @@ the village maiden.</l>
                   <l>How can ſhe ſay he'll faithleſs prove?</l>
                   <l>As ſhe has often told me.</l>
                   <l>
-                     <pb n="95" facs="tcp:023028_0103_0FBAD5BB19E01D70"/>Ah! did ſhe know his winning wiles,</l>
+                     <pb n="95" facs="unknown:023028_0103_0FBAD5BB19E01D70"/>Ah! did ſhe know his winning wiles,</l>
                   <l>And could ſhe taſte ſuch bliſſes;</l>
                   <l>And heard his oaths, and ſaw his ſmiles,</l>
                   <l>And felt his precious kiſſes.</l>
@@ -5950,7 +5950,7 @@ the village maiden.</l>
                   <l>Calm paſſions in a human breaſt,</l>
                   <l>And lull ev'n jealouſy to reſt;</l>
                   <l>
-                     <pb n="96" facs="tcp:023028_0104_0FBAD5BC7075B360"/>With amorous thoughts the ſoul inſpire,</l>
+                     <pb n="96" facs="unknown:023028_0104_0FBAD5BC7075B360"/>With amorous thoughts the ſoul inſpire,</l>
                   <l>Or kindle up a warlike fire.</l>
                   <l>
                      <hi>So great is Muſic's pow'r.</hi>
@@ -6013,7 +6013,7 @@ the village maiden.</l>
                      </gap>'d,</l>
                   <l>No other gueſt came nigh,</l>
                   <l>
-                     <pb n="97" facs="tcp:023028_0105_0FBAD5BE1B829A40"/>In them was giv'n (tho' gold was ſpar'd)</l>
+                     <pb n="97" facs="unknown:023028_0105_0FBAD5BE1B829A40"/>In them was giv'n (tho' gold was ſpar'd)</l>
                   <l>What gold could never buy.</l>
                   <l>No value has a ſplendid lot,</l>
                   <l>But as the means to prove</l>
@@ -6064,7 +6064,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="98" facs="tcp:023028_0106_0FBAD5BFDCE63D38"/>
+               <pb n="98" facs="unknown:023028_0106_0FBAD5BFDCE63D38"/>
                <lg>
                   <l>COME, ye party jangling ſwains,</l>
                   <l>Leave your flocks and quit the plains,</l>
@@ -6131,7 +6131,7 @@ the village maiden.</l>
                         <desc>••</desc>
                      </gap>'ing race with ſcorn,</l>
                   <l>
-                     <pb n="99" facs="tcp:023028_0107_0FBAD5C152D0A680"/>And lend an ear to Damon's woe,</l>
+                     <pb n="99" facs="unknown:023028_0107_0FBAD5C152D0A680"/>And lend an ear to Damon's woe,</l>
                   <l>Who ſings her praiſe, but ſings forlorn.</l>
                </lg>
                <lg>
@@ -6184,7 +6184,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="100" facs="tcp:023028_0108_0FBAD5C38C51BF60"/>
+               <pb n="100" facs="unknown:023028_0108_0FBAD5C38C51BF60"/>
                <lg>
                   <l>HOW oft beneath yon artleſs bow'r,</l>
                   <l>Have I with Phoebe ſat,</l>
@@ -6239,7 +6239,7 @@ the village maiden.</l>
                   <l>My voice that had gain'd on his ear,</l>
                   <l>Soon found out the way to his heart.</l>
                   <l>
-                     <pb n="101" facs="tcp:023028_0109_0FBAD5C4AD8CA118"/>To try if that voice would not pleaſe,</l>
+                     <pb n="101" facs="unknown:023028_0109_0FBAD5C4AD8CA118"/>To try if that voice would not pleaſe,</l>
                   <l>He took me to join the gay throng;</l>
                   <l>I won the rich prize all with eaſe,</l>
                   <l>And my fame's gone abroad with a ſong.</l>
@@ -6296,7 +6296,7 @@ the village maiden.</l>
                   <l>Thoſe hearts that ne'er with pity melt,</l>
                   <l>(As dew impearls the thorn)</l>
                   <l>
-                     <pb n="102" facs="tcp:023028_0110_0FBAD5C62BAAB600"/>Will ſmile at pangs they have not felt,</l>
+                     <pb n="102" facs="unknown:023028_0110_0FBAD5C62BAAB600"/>Will ſmile at pangs they have not felt,</l>
                   <l>And treat my grief with ſcorn:</l>
                </lg>
                <lg>
@@ -6357,7 +6357,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="103" facs="tcp:023028_0111_0FBAD5C7CECBCFB0"/>
+               <pb n="103" facs="unknown:023028_0111_0FBAD5C7CECBCFB0"/>
                <lg>
                   <l>AS in the glowing noon of day,</l>
                   <l>Stretch'd careleſs on the ground,</l>
@@ -6410,7 +6410,7 @@ the village maiden.</l>
                   <l>Young Thyrſis too claims all that honor can lend,</l>
                   <l>His countrymen's glory, their champion and friend,</l>
                   <l>
-                     <pb n="104" facs="tcp:023028_0112_0FBAD5CACF1563A0"/>Tho' ſuch ſlight memorials ſcarce ſpeak his deſerts,</l>
+                     <pb n="104" facs="unknown:023028_0112_0FBAD5CACF1563A0"/>Tho' ſuch ſlight memorials ſcarce ſpeak his deſerts,</l>
                   <l>And truſt me, his name is engrav'd on their hearts.</l>
                </lg>
                <lg>
@@ -6469,7 +6469,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="105" facs="tcp:023028_0113_0FBAD5CC36641E38"/>
+               <pb n="105" facs="unknown:023028_0113_0FBAD5CC36641E38"/>
                <lg>
                   <l>FAREWELL, the ſmoaky town, adieu,</l>
                   <l>Each rude and ſenſual joy:</l>
@@ -6524,7 +6524,7 @@ the village maiden.</l>
                   <l>Let him go, ſince he's chang'd, be you wretched no more,</l>
                   <l>Nor think of a falſe-hearted ſwain:</l>
                   <l>
-                     <pb n="106" facs="tcp:023028_0114_0FBAD5CDB5567AE0"/>But take, if you will, for the lad of your heart,</l>
+                     <pb n="106" facs="unknown:023028_0114_0FBAD5CDB5567AE0"/>But take, if you will, for the lad of your heart,</l>
                   <l>Whom fortune has thrown in your way,</l>
                   <l>I'll ſooth all your grief, and I'll baniſh your ſmart,</l>
                   <l>Here I am ready to do as I ſay.</l>
@@ -6576,7 +6576,7 @@ the village maiden.</l>
                   <l>Claim'd the merry roundelay.</l>
                </lg>
                <lg>
-                  <pb n="107" facs="tcp:023028_0115_0FBAD5CFAC2A9848"/>
+                  <pb n="107" facs="unknown:023028_0115_0FBAD5CFAC2A9848"/>
                   <l>Fields and flocks, and fragrant flow'rs,</l>
                   <l>All that health and joy impart,</l>
                   <l>Call'd for artleſs muſic's pow'rs,</l>
@@ -6633,7 +6633,7 @@ the village maiden.</l>
                   <l>All their, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="108" facs="tcp:023028_0116_0FBAD5D0D374ED30"/>
+                  <pb n="108" facs="unknown:023028_0116_0FBAD5D0D374ED30"/>
                   <l>Time their mutual love improving,</l>
                   <l>All their cares in concert moving,</l>
                   <l>To complete their heaven in loving,</l>
@@ -6683,7 +6683,7 @@ the village maiden.</l>
                   <l>As that dear ſlow'r, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="109" facs="tcp:023028_0117_0FBAD5D2680909E8"/>
+                  <pb n="109" facs="unknown:023028_0117_0FBAD5D2680909E8"/>
                   <l>The balmy zephyrs round thee play,</l>
                   <l>And golden ſuns exert their pow'r,</l>
                   <l>To bring thy beauties to the day,</l>
@@ -6739,7 +6739,7 @@ the village maiden.</l>
                   <l>THE laſt time I came o'er the moor,</l>
                   <l>I left my love behind me;</l>
                   <l>
-                     <pb n="110" facs="tcp:023028_0118_0FBAD5D3AB0083B0"/>Ye pow'rs! what pain do I endure,</l>
+                     <pb n="110" facs="unknown:023028_0118_0FBAD5D3AB0083B0"/>Ye pow'rs! what pain do I endure,</l>
                   <l>When ſoft ideas mind me?</l>
                   <l>Soon as the ruddy morn diſplay'd</l>
                   <l>The beaming day enſuing,</l>
@@ -6792,7 +6792,7 @@ the village maiden.</l>
                   <l>THAT I might not be plagu'd with the nonſenſe of men.</l>
                   <l>I promis'd my mother, again and again,</l>
                   <l>
-                     <pb n="111" facs="tcp:023028_0119_0FBAD5D6B3C5D478"/>To ſay as ſhe bids me, wherever I go,</l>
+                     <pb n="111" facs="unknown:023028_0119_0FBAD5D6B3C5D478"/>To ſay as ſhe bids me, wherever I go,</l>
                   <l>And to all that they aſk, or would have, tell 'em No.</l>
                </lg>
                <lg>
@@ -6850,7 +6850,7 @@ the village maiden.</l>
                   <l>A mind like mine ſincere.</l>
                </lg>
                <lg>
-                  <pb n="112" facs="tcp:023028_0120_0FBAD5D84AC078D0"/>
+                  <pb n="112" facs="unknown:023028_0120_0FBAD5D84AC078D0"/>
                   <l>Let others fancy courtly joys,</l>
                   <l>I'd live in rural eaſe:</l>
                   <l>Then grandeur, buſtle, pride, and noiſe</l>
@@ -6914,7 +6914,7 @@ the village maiden.</l>
                         <desc>••</desc>
                      </gap>nquil, the bluſhing roſe,</l>
                   <l>
-                     <pb n="113" facs="tcp:023028_0121_0FBAD5D9B0B669C8"/>How ſhort a date their beauties know,</l>
+                     <pb n="113" facs="unknown:023028_0121_0FBAD5D9B0B669C8"/>How ſhort a date their beauties know,</l>
                   <l>Surrounded by a thouſand foes!</l>
                   <l>Till time decrees their full decay,</l>
                   <l>And harſh December treads on May.</l>
@@ -6971,7 +6971,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="114" facs="tcp:023028_0122_0FBAD5DB2B0F6448"/>
+               <pb n="114" facs="unknown:023028_0122_0FBAD5DB2B0F6448"/>
                <lg>
                   <l>WHEN once I with Phillida ſtray'd,</l>
                   <l>Where rivers run murmuring by,</l>
@@ -7022,7 +7022,7 @@ the village maiden.</l>
                   <l>When ſky-larks tun'd their carrols ſweet,</l>
                   <l>To hail the god of light and heat:</l>
                   <l>
-                     <pb n="115" facs="tcp:023028_0123_0FBAD5DE9B1F92B0"/>Philander, from his downy bed,</l>
+                     <pb n="115" facs="unknown:023028_0123_0FBAD5DE9B1F92B0"/>Philander, from his downy bed,</l>
                   <l>To fair Liſetta's chamber ſped,</l>
                   <l>Crying—Awake ſweet love of mine,</l>
                   <l>I'm come to be thy Valentine.</l>
@@ -7083,7 +7083,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="116" facs="tcp:023028_0124_0FBAD5DFAD6F31F0"/>
+               <pb n="116" facs="unknown:023028_0124_0FBAD5DFAD6F31F0"/>
                <lg>
                   <l>AMIDST a roſy bank of flow'rs,</l>
                   <l>Young Damon mourn'd his forlorn fate;</l>
@@ -7131,7 +7131,7 @@ the village maiden.</l>
                   <l>With her flocks as ſhe ſtray'd in the grove,</l>
                   <l>The language of love he eſſay'd;</l>
                   <l>
-                     <pb n="117" facs="tcp:023028_0125_0FBAD5E149DDB220"/>He begg'd ſhe'd his paſſion approve,</l>
+                     <pb n="117" facs="unknown:023028_0125_0FBAD5E149DDB220"/>He begg'd ſhe'd his paſſion approve,</l>
                   <l>And a ſmile beam'd at laſt from the maid:</l>
                   <l>And a ſmile, &amp;c.</l>
                </lg>
@@ -7183,7 +7183,7 @@ the village maiden.</l>
                   <l>Turtles round were heard to coo,</l>
                   <l>Whilſt in ſofteſt words I woo;</l>
                   <l>
-                     <pb n="118" facs="tcp:023028_0126_0FBAD5E2BA7397B0"/>Fair Cleora now incline,</l>
+                     <pb n="118" facs="unknown:023028_0126_0FBAD5E2BA7397B0"/>Fair Cleora now incline,</l>
                   <l>Fair Cleora, &amp;c.</l>
                   <l>Let me take this hand of thine;</l>
                   <l>Let me take, &amp;c.</l>
@@ -7235,7 +7235,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="119" facs="tcp:023028_0127_0FBAD5E429337C40"/>
+               <pb n="119" facs="unknown:023028_0127_0FBAD5E429337C40"/>
                <lg>
                   <l>O'ER moorlands and mountains rude, barren, and bare,</l>
                   <l>As wearied and wilder'd I roam,</l>
@@ -7286,7 +7286,7 @@ the village maiden.</l>
                   <l>SLEEP on, ſleep on, my Kathleen dear,</l>
                   <l>May peace poſſeſs thy breaſt;</l>
                   <l>
-                     <pb n="120" facs="tcp:023028_0128_0FBAD5E939302300"/>Yet doſt thou dream thy true love's here,</l>
+                     <pb n="120" facs="unknown:023028_0128_0FBAD5E939302300"/>Yet doſt thou dream thy true love's here,</l>
                   <l>Depriv'd of peace and reſt?</l>
                   <l>The birds ſing ſweet, the morning breaks,</l>
                   <l>Thoſe joys are none to me,</l>
@@ -7334,7 +7334,7 @@ the village maiden.</l>
                   <l>Let envy and pride, let hate and ambition,</l>
                   <l>Still crowd to, and bias the breaſt of the great;</l>
                   <l>
-                     <pb n="121" facs="tcp:023028_0129_0FBAD5EA2A35FFF0"/>To ſuch wretched paſſions we give no admiſſion,</l>
+                     <pb n="121" facs="unknown:023028_0129_0FBAD5EA2A35FFF0"/>To ſuch wretched paſſions we give no admiſſion,</l>
                   <l>But leave them alone to the wiſe ones of ſtate,</l>
                   <l>We boaſt of no wealth,</l>
                   <l>But contentment and health;</l>
@@ -7388,7 +7388,7 @@ the village maiden.</l>
                   <l>The maid in ev'ry graceful feature;</l>
                </lg>
                <sp>
-                  <pb n="122" facs="tcp:023028_0130_0FBAD5EBAE6931F0"/>
+                  <pb n="122" facs="unknown:023028_0130_0FBAD5EBAE6931F0"/>
                   <speaker>CHORUS.</speaker>
                   <l>O how happy are ſuch lovers,</l>
                   <l>When kind<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7446,7 +7446,7 @@ the village maiden.</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="123" facs="tcp:023028_0131_0FBAD5ED45BEDB10"/>
+               <pb n="123" facs="unknown:023028_0131_0FBAD5ED45BEDB10"/>
                <lg>
                   <l>YE fair, who ſhine throughout this land,</l>
                   <l>And triumph o'er this heart,</l>
@@ -7501,7 +7501,7 @@ the village maiden.</l>
                   <l>And both its bleſſings ſhare,</l>
                   <l>To make thoſe joys for ever laſt,</l>
                   <l>
-                     <pb n="124" facs="tcp:023028_0132_0FBAD5F0884395D8"/>Of jealouſy beware.</l>
+                     <pb n="124" facs="unknown:023028_0132_0FBAD5F0884395D8"/>Of jealouſy beware.</l>
                   <l>His love with kind compliance meet,</l>
                   <l>Let conſtancy the work complete,</l>
                   <l>And you'll be ſure to keep him.</l>
@@ -7561,7 +7561,7 @@ the village maiden.</l>
                   <l>Where the friend and the lover are equally join'd.</l>
                </lg>
                <lg>
-                  <pb n="125" facs="tcp:023028_0133_0FBAD5F1B5D7EB98"/>
+                  <pb n="125" facs="unknown:023028_0133_0FBAD5F1B5D7EB98"/>
                   <l>From ſuch a dear lover, as here I deſcribe,</l>
                   <l>No danger ſhould fright me, nor millions ſhould bribe:</l>
                   <l>But 'till this aſtoniſhing creature I know,</l>
@@ -7615,7 +7615,7 @@ the village maiden.</l>
                   <l>Nor night nor day can I have reſt,</l>
                   <l>I can't without you live.</l>
                   <l>
-                     <pb n="126" facs="tcp:023028_0134_0FBAD5F32D7976D8"/>My flocks, my herds, my all is thine,</l>
+                     <pb n="126" facs="unknown:023028_0134_0FBAD5F32D7976D8"/>My flocks, my herds, my all is thine,</l>
                   <l>Could you and I agree,</l>
                   <l>O ſay, you to my with incline</l>
                   <l>Under the greenwood tree.</l>
@@ -7695,7 +7695,7 @@ the village maiden.</l>
                      </gap>ly, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="127" facs="tcp:023028_0135_0FBAD5F4AF7BE240"/>
+                  <pb n="127" facs="unknown:023028_0135_0FBAD5F4AF7BE240"/>
                   <l>Ye learned phyſicians, whoſe excellent ſkill</l>
                   <l>Can ſave or demoliſh, can heal or can kill;</l>
                   <l>To a poor forlorn damſel contribute your aid,</l>
@@ -7751,7 +7751,7 @@ the village maiden.</l>
                   <l>Riſe, ſuing to be preſt!</l>
                </lg>
                <lg>
-                  <pb n="128" facs="tcp:023028_0136_0FBAD5F767EF9648"/>
+                  <pb n="128" facs="unknown:023028_0136_0FBAD5F767EF9648"/>
                   <l>Venus round Fanny's waiſt</l>
                   <l>Has her own ceſtus bound,</l>
                   <l>Three guardian Cupids grace,</l>
@@ -7804,7 +7804,7 @@ the village maiden.</l>
                      </gap>led,</l>
                   <l>The rover none could hold:</l>
                   <l>
-                     <pb n="129" facs="tcp:023028_0137_0FBAD5F971820AB0"/>Who were the maids who told you this?</l>
+                     <pb n="129" facs="unknown:023028_0137_0FBAD5F971820AB0"/>Who were the maids who told you this?</l>
                   <l>Said Colin, when he ſnatch'd a kiſs,</l>
                   <l>I own'd the maids were old.</l>
                </lg>
@@ -7861,7 +7861,7 @@ the village maiden.</l>
                   <l>Let glory re-echo the ſtrain<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="130" facs="tcp:023028_0138_0FBAD5FAB8E598F8"/>
+                     <pb n="130" facs="unknown:023028_0138_0FBAD5FAB8E598F8"/>
 The full tide of honor may flow from the ſcar,</l>
                   <l>And heroes may ſmile on their pain.</l>
                   <l>The treaſures of Autumn let Bacchus diſplay,</l>
@@ -7916,7 +7916,7 @@ The full tide of honor may flow from the ſcar,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="131" facs="tcp:023028_0139_0FBAD5FC2B8C0E58"/>
+               <pb n="131" facs="unknown:023028_0139_0FBAD5FC2B8C0E58"/>
                <lg>
                   <l>HOW oft, Louiſa, haſt thou ſaid,</l>
                   <l>(Nor wilt thou the fond boaſt diſown)</l>
@@ -7969,7 +7969,7 @@ The full tide of honor may flow from the ſcar,</l>
                   <l>For who, that once did prove</l>
                   <l>The pangs which abſence brings,</l>
                   <l>
-                     <pb n="132" facs="tcp:023028_0140_0FBAD5FDDBDD7FC8"/>
+                     <pb n="132" facs="unknown:023028_0140_0FBAD5FDDBDD7FC8"/>
 Though but a day</l>
                   <l>He were away,</l>
                   <l>Could picture thee with wings?</l>
@@ -8031,7 +8031,7 @@ Though but a day</l>
                   </l>
                   <l>Nor fear to ſuffer wrong:</l>
                   <l>
-                     <pb n="133" facs="tcp:023028_0141_0FBAD5FF29B7E2C8"/>
+                     <pb n="133" facs="unknown:023028_0141_0FBAD5FF29B7E2C8"/>
 For friends in all the ag'd you'll meet,</l>
                   <l>And brothers in the young.</l>
                </lg>
@@ -8092,7 +8092,7 @@ For friends in all the ag'd you'll meet,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="134" facs="tcp:023028_0142_0FBAD60274007830"/>
+               <pb n="134" facs="unknown:023028_0142_0FBAD60274007830"/>
                <sp>
                   <speaker>HE.</speaker>
                   <l>HOPE! thou nurſe of young deſire!</l>
@@ -8183,7 +8183,7 @@ For friends in all the ag'd you'll meet,</l>
                         <desc>••</desc>
                      </gap> my deſires.</l>
                   <l>
-                     <pb n="135" facs="tcp:023028_0143_0FBAD6047B73E110"/>
+                     <pb n="135" facs="unknown:023028_0143_0FBAD6047B73E110"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> 
@@ -8283,7 +8283,7 @@ For friends in all the ag'd you'll meet,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="136" facs="tcp:023028_0144_0FBAD605F03FBEE0"/>
+               <pb n="136" facs="unknown:023028_0144_0FBAD605F03FBEE0"/>
                <lg>
                   <l>HOW happy were my days till now!</l>
                   <l>I ne'er did ſorrow feel;</l>
@@ -8368,7 +8368,7 @@ For friends in all the ag'd you'll meet,</l>
                      </gap>d me.</l>
                </lg>
                <lg>
-                  <pb n="137" facs="tcp:023028_0145_0FBAD60785937998"/>
+                  <pb n="137" facs="unknown:023028_0145_0FBAD60785937998"/>
                   <l>Let ſolid ſenſe inform his mind,</l>
                   <l>With pure good-nature ſweetly join'd:</l>
                   <l>Sure friend <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -8430,7 +8430,7 @@ For friends in all the ag'd you'll meet,</l>
                   <l>Laſt night, your roving brother,</l>
                   <l>Enrag'd, I bade depart,—</l>
                   <l>
-                     <pb n="138" facs="tcp:023028_0146_0FBAD60ABAB799D8"/>
+                     <pb n="138" facs="unknown:023028_0146_0FBAD60ABAB799D8"/>
 And ſure his rude preſumption</l>
                   <l>Deſerv'd to loſe my heart.</l>
                   <l>Yet were he now before me,</l>
@@ -8489,7 +8489,7 @@ And ſure his rude preſumption</l>
                   <l>Heaven grant in this ſeaſon it may prove my lot,</l>
                   <l>With the nymph whom I love and admire,</l>
                   <l>
-                     <pb n="139" facs="tcp:023028_0147_0FBAD60BEE5EA6B8"/>
+                     <pb n="139" facs="unknown:023028_0147_0FBAD60BEE5EA6B8"/>
 While the icicles hang from the eves of my cot,</l>
                   <l>I may thither in ſafety retire!</l>
                   <l>Where in neatneſs and quiet and free from ſurpriſe,</l>
@@ -8548,7 +8548,7 @@ While the icicles hang from the eves of my cot,</l>
                   <l>To view it once again.</l>
                </lg>
                <lg>
-                  <pb n="140" facs="tcp:023028_0148_0FBAD60D774C3C18"/>
+                  <pb n="140" facs="unknown:023028_0148_0FBAD60D774C3C18"/>
                   <l>But this delight was ſtifled,</l>
                   <l>As it began to dawn:</l>
                   <l>I found the caſket rifled,</l>
@@ -8604,7 +8604,7 @@ While the icicles hang from the eves of my cot,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="141" facs="tcp:023028_0149_0FBAD60EF9633150"/>
+               <pb n="141" facs="unknown:023028_0149_0FBAD60EF9633150"/>
                <lg>
                   <l>THE virgin, when ſoften'd by May,</l>
                   <l>Attends to the villager's vows,</l>
@@ -8670,7 +8670,7 @@ While the icicles hang from the eves of my cot,</l>
                   <l>They muſt have a ſavage mind,</l>
                   <l>Who refuſe the fair their due.</l>
                   <l>
-                     <pb n="142" facs="tcp:023028_0150_0FBAD612321768F8"/>
+                     <pb n="142" facs="unknown:023028_0150_0FBAD612321768F8"/>
 Scorn'd and hated may they be,</l>
                   <l>Who from Conſtancy do ſwerve!</l>
                   <l>So may ev'ry nymph agree,</l>
@@ -8731,7 +8731,7 @@ Scorn'd and hated may they be,</l>
                   <l>DEAR Chloe, come give me ſweet kiſſes,</l>
                   <l>For ſweeter no girl ever gave;</l>
                   <l>
-                     <pb n="143" facs="tcp:023028_0151_0FBAD614B7DF7F50"/>
+                     <pb n="143" facs="unknown:023028_0151_0FBAD614B7DF7F50"/>
 But why, in the midſt of my bliſſes,</l>
                   <l>Do you aſk me how many I'd have?</l>
                   <l>I am not to be ſtinted in pleaſure,</l>
@@ -8805,7 +8805,7 @@ But why, in the midſt of my bliſſes,</l>
                   <l>IN the ſocial amuſements of life let me live,</l>
                   <l>Prove ev'ry delight love and friendſhip can give</l>
                   <l>
-                     <pb n="144" facs="tcp:023028_0152_0FBAD615B57C71A0"/>
+                     <pb n="144" facs="unknown:023028_0152_0FBAD615B57C71A0"/>
 Where eaſy good-nature gives converſe a zeſt,</l>
                   <l>Where ſenſe in the light robe of humour is dreſt;</l>
                   <l>Where harmony, beauty, and reaſon combine,</l>
@@ -8868,7 +8868,7 @@ Where eaſy good-nature gives converſe a zeſt,</l>
                   <l>He ſtole my heart—could I refuſe</l>
                   <l>Whate'er he aſk'd of me?</l>
                   <l>
-                     <pb n="145" facs="tcp:023028_0153_0FBAD6174CD4E598"/>
+                     <pb n="145" facs="unknown:023028_0153_0FBAD6174CD4E598"/>
 Hard fate! that I muſt baniſh'd be,</l>
                   <l>Gang heavily and mourn,</l>
                   <l>Becauſe I lov'd the kindeſt ſwain</l>
@@ -8926,7 +8926,7 @@ Hard fate! that I muſt baniſh'd be,</l>
                   <l>While rattling we bruſh down the hill's rocky ſide.</l>
                </lg>
                <lg>
-                  <pb n="146" facs="tcp:023028_0154_0FBAD618B6E60038"/>
+                  <pb n="146" facs="unknown:023028_0154_0FBAD618B6E60038"/>
                   <l>The briſk-ſounding horn makes the vallies rebound:</l>
                   <l>Each mountain, each grotto, returns his blithe ſound;</l>
                   <l>The quick-ſcented beagle now ſkims o'er the plains,</l>
@@ -8981,7 +8981,7 @@ Hard fate! that I muſt baniſh'd be,</l>
                   <l>I ſee how look'd the modeſt fair,</l>
                   <l>I hear the gentle things ſhe ſaid.</l>
                   <l>
-                     <pb n="147" facs="tcp:023028_0155_0FBAD61BC5085C50"/>
+                     <pb n="147" facs="unknown:023028_0155_0FBAD61BC5085C50"/>
 The mantling blood her cheek forſakes,</l>
                   <l>But quick returns the roſy hue:</l>
                   <l>With trembling haſte the ſeal ſhe breaks,</l>
@@ -9040,7 +9040,7 @@ The mantling blood her cheek forſakes,</l>
                   <l>With harmleſs mirth and pleaſing jeſt</l>
                   <l>He ſhone more bright than all the reſt:</l>
                   <l>
-                     <pb n="148" facs="tcp:023028_0156_0FBAD61D548933C0"/>
+                     <pb n="148" facs="unknown:023028_0156_0FBAD61D548933C0"/>
 He talk'd of love, and preſs'd my hand!</l>
                   <l>Ah! who could ſuch a youth withſtand?</l>
                   <l>Well pleas'd I heard what he could ſay,</l>
@@ -9104,7 +9104,7 @@ He talk'd of love, and preſs'd my hand!</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="149" facs="tcp:023028_0157_0FBAD61EAEAD47A0"/>
+               <pb n="149" facs="unknown:023028_0157_0FBAD61EAEAD47A0"/>
                <lg>
                   <l>YOUNG Sandy is a dowdy lad,</l>
                   <l>And Jemmy's ſwarth and tawny,</l>
@@ -9161,7 +9161,7 @@ He talk'd of love, and preſs'd my hand!</l>
                      </gap> did lay,</l>
                   <l>And with her boſom play'd;</l>
                   <l>
-                     <pb n="150" facs="tcp:023028_0158_0FBAD6202A8698C0"/>
+                     <pb n="150" facs="unknown:023028_0158_0FBAD6202A8698C0"/>
 Till baith at length impatient grown,</l>
                   <l>To be more fully bleſt,</l>
                   <l>In yonder vale they lean'd them down;</l>
@@ -9243,7 +9243,7 @@ Till baith at length impatient grown,</l>
                   <l>When to a ſhade their ſteps they made,</l>
                   <l>To paſs the mid-day hour.</l>
                   <l>
-                     <pb n="151" facs="tcp:023028_0159_0FBAD623A4759670"/>
+                     <pb n="151" facs="unknown:023028_0159_0FBAD623A4759670"/>
 The bonny lad row'd in his plaid</l>
                   <l>The l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -9312,7 +9312,7 @@ The bonny lad row'd in his plaid</l>
                   <l>Nae greater joy I'll e'er pretend,</l>
                   <l>Than that his love prove true and ſteady,</l>
                   <l>
-                     <pb n="152" facs="tcp:023028_0160_0FBAD624B0E8F348"/>
+                     <pb n="152" facs="unknown:023028_0160_0FBAD624B0E8F348"/>
 Like mine to him, which ne'er s;hall end,</l>
                   <l>While heav'n preſerves my highland laddie.</l>
                   <l>O my bonny, &amp;c.</l>
@@ -9377,7 +9377,7 @@ Like mine to him, which ne'er s;hall end,</l>
                         <desc>••</desc>
                      </gap>ole away,</l>
                   <l>
-                     <pb n="153" facs="tcp:023028_0161_0FBAD62631EC5D70"/>
+                     <pb n="153" facs="unknown:023028_0161_0FBAD62631EC5D70"/>
 My mither ſhe fell ſick, and Jamie at the ſea,</l>
                   <l>And a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -9441,7 +9441,7 @@ My mither ſhe fell ſick, and Jamie at the ſea,</l>
                   <l>Search ev'ry part throughout the land, there's none like me forlorn;</l>
                   <l>I'm ready e'en to ban the day, that ever I was born,</l>
                   <l>
-                     <pb n="154" facs="tcp:023028_0162_0FBAD627AB496BC0"/>
+                     <pb n="154" facs="unknown:023028_0162_0FBAD627AB496BC0"/>
 For Jamie all I lov'd on earth; ah! he is gone away,</l>
                   <l>My father and my mither's dead, and eke auld Robin Gray.</l>
                </lg>
@@ -9493,7 +9493,7 @@ For Jamie all I lov'd on earth; ah! he is gone away,</l>
                   <l>And Jeanie muſt ſubmit, your virtue is your guard,</l>
                   <l>For fortune has in ſtore for you a high and rich reward;</l>
                   <l>
-                     <pb n="155" facs="tcp:023028_0163_0FBAD62AAA6B7388"/>
+                     <pb n="155" facs="unknown:023028_0163_0FBAD62AAA6B7388"/>
 The haughty Dons ſubdued, with Holland and with France,</l>
                   <l>Your Jamie with freſh laurels crown'd will to your wiſh advance.</l>
                   <l>Then let him haſte wi' all his ſpeed to join a noble ſleet,</l>
@@ -9553,7 +9553,7 @@ The haughty Dons ſubdued, with Holland and with France,</l>
                   <l>From mirth poor William fled away</l>
                   <l>To mourn his lot unſeen.</l>
                   <l>
-                     <pb n="156" facs="tcp:023028_0164_0FBAD62CC5E264B8"/>
+                     <pb n="156" facs="unknown:023028_0164_0FBAD62CC5E264B8"/>
 In tears the love-lorn boy complains,</l>
                   <l>Cloſe by the murm'ring Tweed,</l>
                   <l>And the ſad burthen of his ſtrains,</l>
@@ -9608,7 +9608,7 @@ In tears the love-lorn boy complains,</l>
                   <l>Go ſeek a heart that's like your own,</l>
                   <l>And come no more to me, Donald:</l>
                   <l>
-                     <pb n="157" facs="tcp:023028_0165_0FBAD62E93662020"/>
+                     <pb n="157" facs="unknown:023028_0165_0FBAD62E93662020"/>
 For I'll reſerve myſelf alone</l>
                   <l>For one that's more like me;</l>
                   <l>If ſuch a one I cannot find,</l>
@@ -9696,7 +9696,7 @@ For I'll reſerve myſelf alone</l>
                         <desc>〈…〉</desc>
                      </gap>,</l>
                   <l>
-                     <pb n="158" facs="tcp:023028_0166_0FBAD62FEB815C10"/>The hunters fly over the ground;</l>
+                     <pb n="158" facs="unknown:023028_0166_0FBAD62FEB815C10"/>The hunters fly over the ground;</l>
                   <l>Now they ſkim o'er the plain,</l>
                   <l>Now they dart down the lane,</l>
                   <l>And the hills, woods, and vallies reſound;</l>
@@ -9751,7 +9751,7 @@ For I'll reſerve myſelf alone</l>
                   <l>THE twins of Latona, ſo kind to my boon,</l>
                   <l>Ariſe to partake of the chaſe,</l>
                   <l>
-                     <pb n="159" facs="tcp:023028_0167_0FBAD6318481C348"/>And Sol lends a ray to chaſte Dian's fair moon,</l>
+                     <pb n="159" facs="unknown:023028_0167_0FBAD6318481C348"/>And Sol lends a ray to chaſte Dian's fair moon,</l>
                   <l>And a ſmile to the ſmiles on her face.</l>
                </lg>
                <lg>
@@ -9809,7 +9809,7 @@ For I'll reſerve myſelf alone</l>
                         <desc>•</desc>
                      </gap> with gold the dancing corn,</l>
                   <l>
-                     <pb n="160" facs="tcp:023028_0168_0FBAD632F0846CE8"/>Health bids awake and homage pay</l>
+                     <pb n="160" facs="unknown:023028_0168_0FBAD632F0846CE8"/>Health bids awake and homage pay</l>
                   <l>To him who gave another morn.</l>
                   <l>And with toil his nerves to brace,</l>
                   <l>Urges the ſportſman to the chaſe.</l>
@@ -9869,7 +9869,7 @@ For I'll reſerve myſelf alone</l>
                   <l>To lay the ghoſt in the red ſea.</l>
                </lg>
                <lg>
-                  <pb n="161" facs="tcp:023028_0169_0FBAD635CAE91358"/>
+                  <pb n="161" facs="unknown:023028_0169_0FBAD635CAE91358"/>
                   <l>Whole bumpers of claret they quickly drank off,</l>
                   <l>And favorite toaſts they went round;</l>
                   <l>When Humor, well pleas'd, thus ſet up a laugh,</l>
@@ -9930,7 +9930,7 @@ For I'll reſerve myſelf alone</l>
                   <l>Fill the ever-flowing bowl:</l>
                   <l>In circles gay and pleaſures roll.</l>
                   <l>
-                     <pb n="162" facs="tcp:023028_0170_0FBAD637EA4866E0"/>Ever open, ever free,</l>
+                     <pb n="162" facs="unknown:023028_0170_0FBAD637EA4866E0"/>Ever open, ever free,</l>
                   <l>Hail, thou friend to jollity!</l>
                   <l>My brows with Bacchus' chaplets crown'd,</l>
                   <l>I'll live love—my cares are drown'd.</l>
@@ -9995,7 +9995,7 @@ For I'll reſerve myſelf alone</l>
                         <desc>••</desc>
                      </gap>,</l>
                   <l>
-                     <pb n="163" facs="tcp:023028_0171_0FBAD638F3D58FD0"/>Now the ſlowing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="163" facs="unknown:023028_0171_0FBAD638F3D58FD0"/>Now the ſlowing <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>oblet ſee,</l>
                   <l>Sacred to Feſtivity.</l>
@@ -10071,7 +10071,7 @@ For I'll reſerve myſelf alone</l>
                   <l>But death, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="164" facs="tcp:023028_0172_0FBAD63A8CAAF350"/>
+                  <pb n="164" facs="unknown:023028_0172_0FBAD63A8CAAF350"/>
                   <l>Then let us, companions, be jovial and gay;</l>
                   <l>By turns take our bottle an laſs;</l>
                   <l>For he, who his pleaſure puts off for a day,</l>
@@ -10125,7 +10125,7 @@ For I'll reſerve myſelf alone</l>
                   <l>Happy are the wooing days!</l>
                </lg>
                <lg>
-                  <pb n="165" facs="tcp:023028_0173_0FBAD63C37420EA0"/>
+                  <pb n="165" facs="unknown:023028_0173_0FBAD63C37420EA0"/>
                   <l>When by Hymen's chain united,</l>
                   <l>Far away theſe joys are frighted:</l>
                   <l>Dimpled cheeks of roſy hue,</l>
@@ -10180,7 +10180,7 @@ For I'll reſerve myſelf alone</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="166" facs="tcp:023028_0174_0FBAD63F6E602970"/>
+               <pb n="166" facs="unknown:023028_0174_0FBAD63F6E602970"/>
                <lg>
                   <l>A Flaxen headed cow-boy as ſimple as may be,</l>
                   <l>And next a merry plough-boy I whiſtled o'er the lea;</l>
@@ -10237,7 +10237,7 @@ For I'll reſerve myſelf alone</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="167" facs="tcp:023028_0175_0FBAD6418A016AA8"/>
+               <pb n="167" facs="unknown:023028_0175_0FBAD6418A016AA8"/>
                <lg>
                   <l>SWEET ditties would my Patty ſing,</l>
                   <l>Old Chevy Chace, God ſave the king,</l>
@@ -10284,7 +10284,7 @@ For I'll reſerve myſelf alone</l>
                   <l>That whatſoever king ſhall reign,</l>
                   <l>I'll be the vicar of Bray, Sir.</l>
                   <l>
-                     <pb n="168" facs="tcp:023028_0176_0FBAD642B1F440F8"/>When royal James obtain'd the crown,</l>
+                     <pb n="168" facs="unknown:023028_0176_0FBAD642B1F440F8"/>When royal James obtain'd the crown,</l>
                   <l>And pop'ry came in faſhion,</l>
                   <l>The penal laws I hooted down,</l>
                   <l>And read the declaration:</l>
@@ -10356,7 +10356,7 @@ For I'll reſerve myſelf alone</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="169" facs="tcp:023028_0177_0FBAD64442243BA8"/>
+               <pb n="169" facs="unknown:023028_0177_0FBAD64442243BA8"/>
                <lg>
                   <l>WHEREVER I'm going, and all the day long,</l>
                   <l>Abroad or at home, or alone in a throng,</l>
@@ -10413,7 +10413,7 @@ For I'll reſerve myſelf alone</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="170" facs="tcp:023028_0178_0FBAD645C0302820"/>
+               <pb n="170" facs="unknown:023028_0178_0FBAD645C0302820"/>
                <lg>
                   <l>A Few years ago, in the days of my Grannum,</l>
                   <l>(A worthy good woman as ever broke bread)</l>
@@ -10464,7 +10464,7 @@ For I'll reſerve myſelf alone</l>
                   <l>A word to the wiſe</l>
                   <l>Will always ſuffice:</l>
                   <l>
-                     <pb n="171" facs="tcp:023028_0179_0FBAD6476E5196F8"/>Od's ſniggers! go talk to your parrot.</l>
+                     <pb n="171" facs="unknown:023028_0179_0FBAD6476E5196F8"/>Od's ſniggers! go talk to your parrot.</l>
                   <l>I'm not ſuch an elf,</l>
                   <l>Tho'f I ſay it myſelf,</l>
                   <l>But I know a ſheep's head from a carrot,</l>
@@ -10518,7 +10518,7 @@ For I'll reſerve myſelf alone</l>
                   <l>Your charms will ſoon ſhroud;</l>
                   <l>And this whimſical life's but a ſpan:</l>
                   <l>
-                     <pb n="172" facs="tcp:023028_0180_0FBAD64B02231A98"/>Then, maids, make your hay,</l>
+                     <pb n="172" facs="unknown:023028_0180_0FBAD64B02231A98"/>Then, maids, make your hay,</l>
                   <l>While Sol <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>arts his ray,</l>
@@ -10577,7 +10577,7 @@ For I'll reſerve myſelf alone</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="173" facs="tcp:023028_0181_0FBAD64C6FD5F4D8"/>
+               <pb n="173" facs="unknown:023028_0181_0FBAD64C6FD5F4D8"/>
                <lg>
                   <l>THERE was an old man, and, tho' tis not common<g ref="char:punc">▪</g>
                   </l>
@@ -10642,7 +10642,7 @@ For I'll reſerve myſelf alone</l>
                   <l>At length he fell ſick, as old chronicles tell;</l>
                   <l>And then as folks ſaid, he was not very well:</l>
                   <l>
-                     <pb n="174" facs="tcp:023028_0182_0FBAD64DEFD525D0"/>But, what is moſt ſtrange—in ſo weak a condition,</l>
+                     <pb n="174" facs="unknown:023028_0182_0FBAD64DEFD525D0"/>But, what is moſt ſtrange—in ſo weak a condition,</l>
                   <l>As he could not give fees, he could get no phyſician.</l>
                   <l>Derry down.</l>
                </lg>
@@ -10716,7 +10716,7 @@ For I'll reſerve myſelf alone</l>
                   <l>STAND to your guns, my hearts of oak,</l>
                   <l>Let not a word on board be ſpoke:</l>
                   <l>
-                     <pb n="175" facs="tcp:023028_0183_0FBAD651445325B0"/>Victory ſoon will crown the joke;</l>
+                     <pb n="175" facs="unknown:023028_0183_0FBAD651445325B0"/>Victory ſoon will crown the joke;</l>
                   <l>Be ſilent and be ready.</l>
                   <l>Ram home your guns and ſpunge them well,</l>
                   <l>Let us be ſure the balls will te<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -10769,7 +10769,7 @@ For I'll reſerve myſelf alone</l>
                   <l>Blow freſher yet, ye breezes, then,</l>
                   <l>And bear me to her arms.</l>
                   <l>
-                     <pb n="176" facs="tcp:023028_0184_0FBAD65270EAF300"/>But tedious tho' my time now move,</l>
+                     <pb n="176" facs="unknown:023028_0184_0FBAD65270EAF300"/>But tedious tho' my time now move,</l>
                   <l>Yet when again we meet,</l>
                   <l>Delia with ſmiles will crown my love,</l>
                   <l>And make my joy complete,</l>
@@ -10825,7 +10825,7 @@ For I'll reſerve myſelf alone</l>
                   <l>See the crew in flannel jerkins</l>
                   <l>Drinking, toping ſlip by firkins:</l>
                   <l>
-                     <pb n="177" facs="tcp:023028_0185_0FBAD6540280BB58"/>And as they raiſe the tip</l>
+                     <pb n="177" facs="unknown:023028_0185_0FBAD6540280BB58"/>And as they raiſe the tip</l>
                   <l>To their happy lip,</l>
                   <l>On the deck is heard no other ſound,</l>
                   <l>But, prithee, Jack, prithee, Dick,</l>
@@ -10887,7 +10887,7 @@ For I'll reſerve myſelf alone</l>
                   <l>Like my wife, and my partner Joe.</l>
                </lg>
                <lg>
-                  <pb n="178" facs="tcp:023028_0186_0FBAD65572989F18"/>
+                  <pb n="178" facs="unknown:023028_0186_0FBAD65572989F18"/>
                   <l>I roll'd in joys like theſe awhile,</l>
                   <l>Folks far and near careſs'd me,</l>
                   <l>'Till woe is me,</l>
@@ -10940,7 +10940,7 @@ For I'll reſerve myſelf alone</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="179" facs="tcp:023028_0187_0FBAD6570AD68170"/>
+               <pb n="179" facs="unknown:023028_0187_0FBAD6570AD68170"/>
                <lg>
                   <l>NOT thunders o'er the ſea-boy's head,</l>
                   <l>Whoſe ſounds impetuous roll,</l>
@@ -10995,7 +10995,7 @@ For I'll reſerve myſelf alone</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="180" facs="tcp:023028_0188_0FBAD65B139AA188"/>
+               <pb n="180" facs="unknown:023028_0188_0FBAD65B139AA188"/>
                <lg>
                   <l>POUR me out the parting glaſs:</l>
                   <l>Again to thee, my pretty laſs,</l>
@@ -11052,7 +11052,7 @@ For I'll reſerve myſelf alone</l>
                      </gap>ll ſhall greet</l>
                   <l>A heart without diſguiſe.</l>
                   <l>
-                     <pb n="181" facs="tcp:023028_0189_0FBAD65C52AC4600"/>For ſuch <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <pb n="181" facs="unknown:023028_0189_0FBAD65C52AC4600"/>For ſuch <gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -11125,7 +11125,7 @@ For I'll reſerve myſelf alone</l>
                   </gap>in of arms,</l>
                <l>Ev'ry daring ſpirit warms.</l>
                <l>
-                  <pb n="182" facs="tcp:023028_0190_0FBAD65DC79358A8"/>Hark! how the flaſhing gun's hoarſe thunder</l>
+                  <pb n="182" facs="unknown:023028_0190_0FBAD65DC79358A8"/>Hark! how the flaſhing gun's hoarſe thunder</l>
                <l>Rends the trembling air aſunder;</l>
                <l>Clouds of ſmoke to Heav'n aſpire,</l>
                <l>See! the elements on fire;</l>
@@ -11190,7 +11190,7 @@ For I'll reſerve myſelf alone</l>
                   <l>With a free and an accepted maſon.</l>
                </lg>
                <lg>
-                  <pb n="183" facs="tcp:023028_0191_0FBAD65F2DABBA08"/>
+                  <pb n="183" facs="unknown:023028_0191_0FBAD65F2DABBA08"/>
                   <l>Great kings dukes, and lords, have laid by their ſwords,</l>
                   <l>Our myſt'ry to put a good grace on,</l>
                   <l>And ne'er been aſham'd, to hear themſelves nam'd</l>
@@ -11266,7 +11266,7 @@ For I'll reſerve myſelf alone</l>
                   <l>Diſtinguiſh'd by the badge they wear.</l>
                </lg>
                <lg>
-                  <pb n="184" facs="tcp:023028_0192_0FBAD66339B0B510"/>
+                  <pb n="184" facs="unknown:023028_0192_0FBAD66339B0B510"/>
                   <l>Sweet fellowſhip, from envy free,</l>
                   <l>Friendly converſe of brotherhood,</l>
                   <l>The Lodge's laſting cement be,</l>
